@@ -2,10 +2,10 @@
 #inlcude<conio.h>
 int main()
 {
-enter x;
-cout<< enter x:
+int x;
+cout<<"enter x";
 cin>> x;
-cout<< entered data in x;<< x;
+cout<<"entered data in x"<< x;
 return 0;
 getch();
 }
