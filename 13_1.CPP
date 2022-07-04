@@ -30,7 +30,7 @@ int main()
 person p1("ved",18);
 person p2("aman",100);
 person p=p1.greater(p2);
-cout<<p.name<<p.age<<endl;
+cout<<p.name<< "is older"<<endl;
 return 0;
 }
 
